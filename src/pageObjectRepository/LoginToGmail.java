@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import geneicLib.BrowserDriver;
-
+//my login gmail class
 public class LoginToGmail {
 	@FindBy(id="Email")
 	private WebElement userName;
